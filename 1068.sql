@@ -1,1 +1,0 @@
-select product_name.Product, year.Sales, price.Sales
